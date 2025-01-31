@@ -61,6 +61,7 @@ android {
             resources.srcDirs += 'src/uiTest/resources'
         }
     }
+    namespace 'com.example.android.navigationsample'
 }
 
 dependencies {
